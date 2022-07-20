@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ganezasan
-- 👀 I’m interested in something
-- 🌱 I’m currently learning about curript mining
-- 💞️ I’m looking to collaborate on something
+- 👀 I’m interested in Automation
+- 🌱 I’m currently learning about Jest which is JavaScript testing framework
+- 💞️ I’m looking to collaborate on something connect to my lifestyle 
 - 📫 How to reach me on twitter @ganezasan
 
 <!---
